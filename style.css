@@ -1,0 +1,159 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navTopo {
+    width: 100%;
+    background-color: #129799;
+
+}
+
+.UlTopo {
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.listItem {
+    color: white;
+    font-size: 4rem;
+}
+
+.batidalife {
+
+    background-color: #129799;
+    height: 40vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.batidalife {
+    color: white;
+    font-size: 7vh;
+}
+
+.life {
+    width: 50%;
+}
+
+.navDown {}
+
+.UlDown {
+
+    color: white;
+    font-size: 5rem;
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.sectionNavDown {
+    background-color: #129799;
+}
+
+.secundaria{
+    background-color: #FFA185;
+    height: 180vh;
+}
+
+.sectionAquarela{
+/* background-color: black; */
+width: 30vh;
+height: 16vh;
+}
+
+.aquarela{
+    color: white;
+    font-size: 7rem;
+    display: flex;
+    justify-content: center;
+    padding-top: 9rem;
+}
+
+.resumo{
+    font-size: 7rem;
+    display: flex;
+    margin-left: 7rem;
+    /* justify-content: space-evenly; */
+}
+
+.teste{
+
+    margin-top: 7rem;
+
+}
+.imagens{
+    width: 120vh;
+}
+
+.navImagens1{
+    display: flex;
+    justify-content: space-around;
+}
+
+
+.navImagens2{
+   margin-top: 7rem;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.centralizarVeja{
+    width: 100%;
+    height: 14vh;
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.vejamais{
+    font-size: 7rem;
+    list-style: none;
+}
+
+.footerMain{
+    height: 20vh;
+    background-color: #129799;
+    display: flex;
+}
+
+.midias{
+    width: 50%;
+    /* background-color: white; */
+    display: flex;
+    align-items: center;
+}
+
+.SectionPortfolio{
+    display: flex;
+    align-items: center;
+
+}
+
+.navportfolio{
+    
+}
+
+.ulportfolio{
+    
+    display: flex;
+    
+}
+
+
+.estiloLista{
+    list-style: none;
+    font-size: 7rem;
+    color: white;
+}
+
+
+/* em contrução */
